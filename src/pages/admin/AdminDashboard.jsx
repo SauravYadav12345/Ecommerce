@@ -29,7 +29,7 @@ const AdminDashboard = () => {
             {/* image  */}
             <div className="flex justify-center">
               <img
-                src="https://cdn-icons-png.flaticon.com/128/2202/2202112.png"
+                src="https://cdn-icons-png.freepik.com/256/145/145939.png?semt=ais_hybrid"
                 alt=""
               />
             </div>
