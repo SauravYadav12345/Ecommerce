@@ -98,7 +98,7 @@ const UserDashboard = () => {
                                   <div className="text-sm font-semibold text-black">
                                     Order Id
                                   </div>
-                                  <div className="text-sm font-medium text-gray-900">
+                                  <div className="text-xs font-medium text-gray-900 break-words">
                                     #{id}
                                   </div>
                                 </div>
