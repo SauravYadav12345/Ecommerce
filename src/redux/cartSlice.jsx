@@ -30,6 +30,10 @@ export const cartSlice = createSlice({
         return item;
       });
     },
+    // eslint-disable-next-line no-unused-vars
+    clearCart(state) {
+      return [];
+    },
   },
 });
 
