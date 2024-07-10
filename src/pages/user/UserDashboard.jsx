@@ -20,7 +20,7 @@ const UserDashboard = () => {
             {/* image  */}
             <div className="flex justify-center">
               <img
-                src="https://cdn-icons-png.flaticon.com/128/2202/2202112.png"
+                src="https://cdn-icons-png.freepik.com/256/8801/8801376.png?semt=ais_hybrid"
                 alt=""
               />
             </div>
