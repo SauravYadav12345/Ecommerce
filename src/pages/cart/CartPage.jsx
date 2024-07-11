@@ -95,7 +95,7 @@ const CartPage = () => {
         pincode: "",
         mobileNumber: "",
       });
-      // dispatch(clearCart()); // Clear the cart
+      //dispatch(clearCart()); // Clear the cart
       toast.success("Order Placed Successfull");
     } catch (error) {
       console.log(error);

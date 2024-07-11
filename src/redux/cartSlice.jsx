@@ -43,6 +43,7 @@ export const {
   deleteFromCart,
   incrementQuantity,
   decrementQuantity,
+  //clearCart,
 } = cartSlice.actions;
 
 export default cartSlice.reducer;

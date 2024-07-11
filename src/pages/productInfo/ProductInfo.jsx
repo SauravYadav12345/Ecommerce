@@ -157,7 +157,7 @@ const ProductInfo = () => {
                           onClick={() => deleteCart(product)}
                           className="w-full px-4 py-3 text-center text-white bg-red-500 border border--600  hover:bg-red-600 hover:text-gray-100  rounded-xl"
                         >
-                          Delete to cart
+                          Delete from cart
                         </button>
                       ) : (
                         <button
@@ -167,11 +167,6 @@ const ProductInfo = () => {
                           Add to cart
                         </button>
                       )}
-                    </div>
-                    <div className="flex gap-4 mb-6">
-                      <button className="w-full px-4 py-3 text-center text-gray-100 bg-pink-600 border border-transparent dark:border-gray-700 hover:border-pink-500 hover:text-pink-700 hover:bg-pink-100 rounded-xl">
-                        Buy now
-                      </button>
                     </div>
                   </div>
                 </div>
